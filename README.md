@@ -169,7 +169,7 @@ Through this project, I learned:
 **Project Type:** Database Management System
 
 **Video Link:** 
-
+https://drive.google.com/file/d/1kTPHT4JgkufvWozcAtlCBFBRWPKrU3od/view?usp=sharing
 ---
 
 ## ⭐ Conclusion
